@@ -6,7 +6,7 @@ namespace src_HeroopQuest
     {
         static void Main(string[] args)
         {
-         
+            Held held1 = new Held(HeldType.Barbaar,"conan");
         }
     }
 }
